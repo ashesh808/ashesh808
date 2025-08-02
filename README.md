@@ -13,7 +13,8 @@ I am a dedicated Application Developer with a strong foundation in building robu
 - **Dean’s List** & Monte Johnson Computer Science Scholar
 - 1st Place – Huskies Hack x Immersion Data Solutions (2025)
 - 3rd Place – Aspen Tech x SCSU Hackathon (2023)
-- 340+ LeetCode problems solved
+- Competitor – Mid Central ICPC Regional Programming Contest (2024)
+- Competitor – MICS 2025 Programming Contest
 - Academic paper co-author (MICS 2024)
 
 ---
