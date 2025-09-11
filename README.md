@@ -1,6 +1,6 @@
 # Hi, I'm Ashesh Nepal
 
-**Application Developer** | Computer Science @ St. Cloud State University (May 2025)  
+**Application Developer** | Associate Integration Developer @ MetC  
 [LinkedIn](https://linkedin.com/in/ashesh808) 
 
 ---
@@ -27,6 +27,7 @@ I am an Application Developer with a strong interest in building high quality so
 
 ---
 
-## 💬 Let’s Connect
+## 💬 Ways to Connect
 
-Feel free to reach out via [LinkedIn](https://linkedin.com/in/ashesh808)— happy to connect and discuss technology, software development, or collaboration opportunities.
+- 🌐 [LinkedIn](https://linkedin.com/in/ashesh808) (preferred)  
+- 📧 Email: **nepalashesh8@gmail.com**
