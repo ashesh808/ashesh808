@@ -33,9 +33,6 @@
 - **Tools:** Docker, Git, Postman, CI/CD, NUnit, Moq
 - **Other:** REST APIs, Microservices, Distributed Systems, Technical Documentation
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cut.png" width="100%">
-</p>
 
 ## 🚀 Achievements
 I enjoy solving problems in competitive and collaborative spaces:  
@@ -45,17 +42,11 @@ I enjoy solving problems in competitive and collaborative spaces:
 - 🎯 Competitor – Mid Central ICPC Regional (2024) & MICS (2025)  
 - ✍️ Academic paper co-author (MICS 2024)  
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cut.png" width="100%">
-</p>
 
 ## 📊 GitHub at a Glance
 
 ![Ashesh's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ashesh808&theme=github)
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cut.png" width="100%">
-</p>
 
 ## 🌐 Ways to Connect
 
