@@ -2,9 +2,9 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cut.png" width="100%">
 </p>
 
+[![](https://www.williamguerrand.com/api/counter?username=ashesh808&scale=1)](https://github.com/Austinae/github-profile-view-tracker)
 <h1 align="center">Hi, I'm Ashesh Nepal</h1>
 <p align="center"><b>Associate Integration Developer @ MetC</b></p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
