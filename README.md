@@ -38,7 +38,7 @@
 I enjoy solving problems in competitive and collaborative spaces:  
 - **Dean’s List** & Monte Johnson Computer Science Scholar  
 - 🥇 1st Place – Huskies Hack x Immersion Data Solutions (2025)  
-- 🥉 3rd Place – Aspen Tech x SCSU Hackathon (2023)  
+- 🥉 2nd Place – Aspen Tech x SCSU Hackathon (2023)  
 - 🎯 Competitor – Mid Central ICPC Regional (2024) & MICS (2025)  
 - ✍️ Academic paper co-author (MICS 2024)  
 
