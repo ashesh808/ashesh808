@@ -28,7 +28,7 @@
 
 - **Languages:** C#, Python, C++, TS
 - **Frameworks:** .NET Core, Flask, Starlette, Tailwind CSS
-- **Cloud:** Azure, AWS, GCP
+- **Cloud:** Azure, GCP, AWS
 - **Databases:** SQLite, MS SQL Server, PostgreSQL, Oracle, MySQL
 - **Tools:** Docker, Git, Postman, CI/CD, NUnit, Moq
 - **Other:** REST APIs, Microservices, Distributed Systems, Technical Documentation
@@ -50,5 +50,4 @@ I enjoy solving problems in competitive and collaborative spaces:
 
 ## 🌐 Ways to Connect
 
-- [LinkedIn](https://linkedin.com/in/ashesh808) (preferred)  
 - Email: **nepalashesh8@gmail.com**  
