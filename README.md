@@ -35,11 +35,8 @@
 * **Other:** REST APIs, Microservices, Distributed Systems, Technical Documentation
 
 ## 🚀 Achievements
-
 I enjoy solving problems in competitive and collaborative spaces:
-
-* 🎓 **MEng in Data Science – UCLA**
-* **Dean’s List** & Monte Johnson Computer Science Scholar
+* Dean’s List & Monte Johnson Computer Science Scholar
 * 🥇 1st Place – Huskies Hack x Immersion Data Solutions (2025)
 * 🥈 2nd Place – Aspen Tech x SCSU Hackathon (2023)
 * 🎯 Competitor – Mid Central ICPC Regional (2024) & MICS (2025)
